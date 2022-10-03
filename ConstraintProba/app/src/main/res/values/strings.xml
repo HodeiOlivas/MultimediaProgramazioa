@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConstraintProba</string>
+    <string name="text">Android es un sistema operativo móvil basado en el núcleo Linux y otros software de código abierto. Fue diseñado para dispositivos móviles con pantalla táctil, como teléfonos inteligentes, tabletas, relojes inteligentes Wear OS, automóviles con otros sistemas a través de Android Auto, al igual los automóviles con el sistema Android Automotive y televisores Android TV.
+
+Inicialmente fue desarrollado por Android Inc., que fue adquirido por Google en 2005.3​ Android fue presentado en 2007 junto con la fundación del Open Handset Alliance (un consorcio de compañías de hardware, software y telecomunicaciones) para avanzar en los estándares abiertos de los dispositivos móviles.4​ El código fuente principal de Android se conoce como Android Open Source Project (AOSP), que se licencia principalmente bajo la Licencia Apache.5​ Android es el sistema operativo móvil más utilizado del mundo, con una cuota de mercado superior al 90 % al año 2018, muy por encima de IOS.6​7​8​9​
+
+Según los documentos secretos filtrados en 2013 y 2014, el sistema operativo es uno de los objetivos de las agencias de inteligencia internacionales.10​
+    https://es.wikipedia.org/wiki/Android</string>
+
+    <string name="proba">  PROBA</string>
+
+</resources>
