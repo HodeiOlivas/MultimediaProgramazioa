@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KaixoToast</string>
+    <string name="toast_message">Toast botoia klikatu duzu</string>
+    <string name="COUNT">KONTATZEKO</string>
+    <string name="TOAST">MEZUA</string>
+    <string name="ZERO">ZERO</string>
+</resources>

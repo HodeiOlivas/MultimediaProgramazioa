@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HolaToast</string>
+    <string name="toast_message">Has tocado el boton toast</string>
+    <string name="COUNT">CONTAR</string>
+    <string name="TOAST">MENSAJE</string>
+    <string name="ZERO">CERO</string>
+</resources>
