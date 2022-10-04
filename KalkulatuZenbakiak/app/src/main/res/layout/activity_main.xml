@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="144dp"
+        android:layout_height="55dp"
+        android:text="@string/BotoiaKalkulatu"
+        tools:layout_editor_absoluteX="102dp"
+        tools:layout_editor_absoluteY="123dp" />
+
+    <EditText
+        android:id="@+id/et1"
+        android:layout_width="104dp"
+        android:layout_height="54dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/et1"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="48dp" />
+
+    <EditText
+        android:id="@+id/et2"
+        android:layout_width="101dp"
+        android:layout_height="53dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/et2"
+        tools:layout_editor_absoluteX="196dp"
+        tools:layout_editor_absoluteY="49dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="42dp"
+        android:layout_height="62dp"
+        android:gravity="center|center_vertical"
+        android:text="+"
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="142dp"
+        tools:layout_editor_absoluteY="40dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
